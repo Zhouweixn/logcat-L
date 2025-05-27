@@ -1,8 +1,6 @@
 # parse_pmsg.py
 # This script is used to parse Android pmsg-ramoops log files and print them in a format similar to `logcat -L`.
-# Project: https://github.com/Zhouweixn/logcat-L
 # Usage: python parse_pmsg.py <pmsg-ramoops-0-1>
-# Author: github-copilot-bot
 
 #!/usr/bin/env python3
 import struct
